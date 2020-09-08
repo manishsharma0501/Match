@@ -3,6 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     package="com.shaadi.match">
 
+    <uses-permission android:name="android.permission.INTERNET"/>
     <application
         android:name=".MatchApp"
         android:allowBackup="true"
